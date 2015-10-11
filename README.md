@@ -28,4 +28,4 @@ Open `file --> prettyreport` and `export test suite results` save it in side `re
 
 ### Contribute:
 
-Add more test cases by added them into `test_case` folder.
+Add more test cases by adding them into `test_case` folder.

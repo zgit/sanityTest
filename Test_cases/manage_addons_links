@@ -57,8 +57,13 @@
 	<td></td>
 </tr>
 <tr>
+	<td>selectWindow</td>
+	<td>null</td>
+	<td></td>
+</tr>
+<tr>
 	<td>waitForElementPresent</td>
-	<td>id=inlineFilterText838</td>
+	<td>id=838</td>
 	<td></td>
 </tr>
 <tr>
@@ -98,7 +103,7 @@
 </tr>
 <tr>
 	<td>waitForElementPresent</td>
-	<td>id=inlineFilterText775</td>
+	<td>css=span.reportActionColumn</td>
 	<td></td>
 </tr>
 </tbody></table>

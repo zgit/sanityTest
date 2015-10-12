@@ -33,7 +33,7 @@
 </tr>
 <tr>
 	<td>waitForElementPresent</td>
-	<td>id=inlineFilterText159</td>
+	<td>css=nobr &gt; label</td>
 	<td></td>
 </tr>
 <tr>

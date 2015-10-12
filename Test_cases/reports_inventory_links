@@ -38,7 +38,7 @@
 </tr>
 <tr>
 	<td>waitForElementPresent</td>
-	<td>id=inlineFilterText140</td>
+	<td>css=nobr &gt; label</td>
 	<td></td>
 </tr>
 <tr>
@@ -48,7 +48,7 @@
 </tr>
 <tr>
 	<td>waitForElementPresent</td>
-	<td>id=inlineFilterText151</td>
+	<td>css=nobr &gt; label</td>
 	<td></td>
 </tr>
 <tr>

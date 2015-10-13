@@ -47,6 +47,11 @@
 	<td>WindowId</td>
 </tr>
 <tr>
+	<td>selectWindow</td>
+	<td>${WindowId}</td>
+	<td></td>
+</tr>
+<tr>
 	<td>waitForElementPresent</td>
 	<td>id=welcome_text</td>
 	<td></td>

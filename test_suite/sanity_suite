@@ -37,7 +37,8 @@
 <tr><td><a href="../Test_cases/reports_orders_links">reports_orders_links</a></td></tr>
 <tr><td><a href="../Test_cases/reports_other_links">reports_other_links</a></td></tr>
 <tr><td><a href="../Test_cases/reports_users_links">reports_users_links</a></td></tr>
-<tr><td><a href="../Test_cases/my_order">my_order</a></td></tr>
+<tr><td><a href="../Test_cases/topmenu_help">topmenu_help</a></td></tr>
+<tr><td><a href="../Test_cases/topmenu_my_orders">topmenu_my_orders</a></td></tr>
 <tr><td><a href="../Test_cases/logout">logout</a></td></tr>
 </tbody></table>
 </body>

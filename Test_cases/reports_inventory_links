@@ -63,16 +63,6 @@
 </tr>
 <tr>
 	<td>clickAndWait</td>
-	<td>link=Package Components</td>
-	<td></td>
-</tr>
-<tr>
-	<td>waitForElementPresent</td>
-	<td>css=nobr &gt; label</td>
-	<td></td>
-</tr>
-<tr>
-	<td>clickAndWait</td>
 	<td>link=Seats Vs Events</td>
 	<td></td>
 </tr>

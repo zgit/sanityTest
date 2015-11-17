@@ -19,12 +19,12 @@
 <tr>
 	<td>clickAndWait</td>
 	<td>xpath=(//a[contains(text(),'Pending')])[4]</td>
-	<td></td>
+	<td>2000</td>
 </tr>
 <tr>
 	<td>waitForElementPresent</td>
-	<td>id=actionsDropDown</td>
-	<td>2000</td>
+	<td>id=inline_date_filter_value701</td>
+	<td></td>
 </tr>
 <tr>
 	<td>clickAndWait</td>
@@ -33,7 +33,7 @@
 </tr>
 <tr>
 	<td>waitForElementPresent</td>
-	<td>link=Pending Approval</td>
+	<td>//div[@id='admin']/table/tbody/tr/td[9]/ul/li</td>
 	<td>2000</td>
 </tr>
 </tbody></table>
